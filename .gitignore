@@ -2,5 +2,5 @@
 __pycache__/
 venv/
 .venv/
-output.csv
+pipeline.log
 
