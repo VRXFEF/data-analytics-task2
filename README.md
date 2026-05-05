@@ -53,7 +53,7 @@ copy task2\.env.example .env  # Windows PowerShell
 
 В `.env` укажите:
 
-`GROQ_API_KEY=...`
+`GROQ_API_KEY=your_api_key_here`
 
 Где взять ключ:
 - Откройте `https://console.groq.com/`
