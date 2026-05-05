@@ -1,0 +1,4 @@
+groq>=0.13.0
+pandas>=2.2.0
+python-dotenv>=1.0.1
+pydantic>=2.0.0
